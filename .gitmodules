@@ -1,0 +1,4 @@
+[submodule "lualib"]
+	path = lualib
+	url = https://github.com/Rochet2/lualib.git
+	branch = 5.1
